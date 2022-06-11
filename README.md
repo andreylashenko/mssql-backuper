@@ -5,7 +5,6 @@ mssql docker with opportunity flexible backups managing.
 project structure:
 
  - backups - directory contains backup files after using command ./create_backups.sh
- - databases - directory contains sql scripts for creating databases
  - files.bak - directory contains .bak files for restoring databases
  - files.sql - directory contains various sql files
 
