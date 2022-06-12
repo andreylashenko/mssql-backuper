@@ -3,5 +3,6 @@ version: '3'
 services:
   mssql:
     build: "./"
+    container_name: mssql-backuper
     ports:
       - "1533:1433"

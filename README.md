@@ -7,6 +7,7 @@ project structure:
  - backups - directory contains backup files after using command ./create_backups.sh
  - files.bak - directory contains .bak files for restoring databases
  - files.sql - directory contains various sql files
+ - config.sh - contains config properties
 
 ## Project commands
 
