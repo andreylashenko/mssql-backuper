@@ -22,7 +22,7 @@ $ ./create_backups.sh
 ```
 
 ```bash
-# load backups (creating backups before loading)
+# load backups
 $ ./load_backups.sh
 ```
 
